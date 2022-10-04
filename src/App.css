@@ -1,0 +1,7 @@
+.navbar {
+  background-image: linear-gradient(
+    90deg,
+    rgb(12, 237, 147),
+    rgb(13, 200, 220)
+  );
+}
